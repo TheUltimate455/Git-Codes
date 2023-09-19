@@ -1,12 +1,15 @@
 h1 {
-  color: #228b22;
+  color: red;
   font-size: 50px;
 }
 ul {
-  color: #228b22;
+  color: red;
   font-size  
 }
 li {
-  color: #8A9A5B;
+  color: red;
     font-size: 35px;
+}
+ p {
+  color: dark red;
 }
